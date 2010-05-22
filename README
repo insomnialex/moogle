@@ -1,1 +1,8 @@
 README file for moogle
+
+
+Required packages for building the vala demo:
+valac
+libglu1-mesa-dev
+libgl1-mesa-dev
+libglfw-dev
